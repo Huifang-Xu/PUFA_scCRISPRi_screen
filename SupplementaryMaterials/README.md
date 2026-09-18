@@ -11,7 +11,7 @@ Supplementary Figure 7. Quality control evaluation of single-cell CRISPRi screen
 Supplementary Figure 8. Gene-set enrichment analyses of cis-target genes from single-cell CRISPRi screen \
 Supplementary Figure 9. Protein-protein interaction network of cis-target genes detected by single-cell CRISPRi screening \
 Supplementary Figure 10. Targeted CRISPRi validation of 16 CRE-gene pairs \
-Supplementary Figure 11: Quantile-quantile plot of association p-values from single-cell CRISPRi calibration \
+Supplementary Figure 11. Quantile-quantile plot of association p-values from single-cell CRISPRi calibration \
 Supplementary Figure 12. Genomic distance distribution between CREs targeting the same genes 
 
 ## Supplementary Tables
